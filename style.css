@@ -1,0 +1,21 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: rgb(243, 243, 72);
+    color: rgb(253, 32, 32);
+}
+
+h1, h2 {
+    color: rgb(243, 70, 7);
+}
+
+.recipeImg {
+    height: auto;
+    width: 550px;
+}
+
+#muff {
+    width: 300px;
+}
